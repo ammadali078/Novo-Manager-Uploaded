@@ -1,0 +1,57 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.7.1)
+  - Alamofire (4.8.2)
+  - BEMCheckBox (1.4.1)
+  - DatePickerDialog (4.0)
+  - IQKeyboardManagerSwift (6.5.6)
+  - ObjectMapper (3.5.1)
+  - Player (0.13.1)
+  - RLBAlertsPickers (1.1.2)
+  - Zip (1.1.0)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0
+  - Alamofire (~> 4.8.2)
+  - BEMCheckBox
+  - DatePickerDialog
+  - IQKeyboardManagerSwift
+  - ObjectMapper
+  - Player
+  - RLBAlertsPickers (from `https://github.com/savasadar/Alerts-Pickers.git`, branch `master`)
+  - Zip
+
+SPEC REPOS:
+  trunk:
+    - ActionSheetPicker-3.0
+    - Alamofire
+    - BEMCheckBox
+    - DatePickerDialog
+    - IQKeyboardManagerSwift
+    - ObjectMapper
+    - Player
+    - Zip
+
+EXTERNAL SOURCES:
+  RLBAlertsPickers:
+    :branch: master
+    :git: https://github.com/savasadar/Alerts-Pickers.git
+
+CHECKOUT OPTIONS:
+  RLBAlertsPickers:
+    :commit: e03545c1ff31bd584ea278d9b59a6ba05a3bbc6c
+    :git: https://github.com/savasadar/Alerts-Pickers.git
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: 36da254b97a09ff89679ecb8b8510bd3e5bdc773
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  BEMCheckBox: 5ba6e37ade3d3657b36caecc35c8b75c6c2b1a4e
+  DatePickerDialog: ccff2f91ff7a018057a4d72fa5ad6de49c8cb0cd
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  Player: 29186e0d557898b0ebdab42d2e1b47e615838156
+  RLBAlertsPickers: d9ad8d67879c1b2dd1a0ba5a14929e0bbc4d1b58
+  Zip: 8877eede3dda76bcac281225c20e71c25270774c
+
+PODFILE CHECKSUM: dd9da0b0859a27331ba5a6df3b4cc4352a41aa94
+
+COCOAPODS: 1.11.3
